@@ -1,4 +1,4 @@
-# Desain-WebKL
+# Desain-WebLEO
 
 Repository ini berisi tugas Desain Web untuk memenuhi keperluan mata kuliah Desain Web.
 
